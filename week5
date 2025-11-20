@@ -1,3 +1,4 @@
+i=0
 P_burglary=0.002
 P_earthquake=0.001
 P_alarm_given_burglary_and_earthquake=0.94
